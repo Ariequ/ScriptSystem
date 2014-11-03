@@ -1,0 +1,15 @@
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Assembly-CSharp.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/UnityEngine.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Assembly-CSharp-firstpass.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Assembly-CSharp-firstpass.dll.mdb
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/UnityEditor.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Communication.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Fame.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Mono.Cecil.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/nunit.framework.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/Unity.DataContract.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/ICSharpCode.NRefactory.dll
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/script.exe.mdb
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/script.exe
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/obj/Debug/script.exe
+/Users/kaixin/Hero/client/Libraries/ScriptSystem/obj/Debug/script.exe.mdb
